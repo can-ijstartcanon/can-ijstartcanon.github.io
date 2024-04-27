@@ -1,6 +1,6 @@
 # ij.start.canon
 
-[![ij.start.canon](gett-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](gett-started.png)](https://can.printredir.com)
 
 Welcome to basic printing with the [ij.start.canon](https://can-ijstartcanon.github.io/)  All-in-One Printer. Simple to replace 2-Cartridge Fine Hybrid Ink System, Improved setup using Wireless Connect, a rear paper tray that makes handling plain or photograph paper fast and simple Plus, the  can connect to your cell phone or tablet via AirPrint, Mopria Print Service, and can print from workstations and PCs that operate over WiFi, or using the Canon PRINT application.
 
